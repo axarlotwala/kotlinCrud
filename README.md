@@ -1,2 +1,2 @@
 # kotlinCrud
-First Crud In kotlin
+undertstand how to kotlin work with firebase crud operation
